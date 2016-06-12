@@ -25,8 +25,8 @@ To use [toastr](https://atmospherejs.com/chrismbeckett/toastr) to display notifi
 
 
 ####Basic Functionality
-<pre>
-- User can view all Photos in Gallery as Thumbnails
-- User can click on Thumbnails to view Original Photo
-- User can add Photos to Gallery
-</pre>
+```
+> User can view all Photos in Gallery as Thumbnails
+> User can click on Thumbnails to view Original Photo
+> User can add Photos to Gallery
+```
